@@ -1,0 +1,288 @@
+Refreshing Possibilities...
+Created possibilities
+End
+
+Printing Posibilities...
+[1, 4, 6, 7, 8, 9][1, 4, 6, 7, 8, 9][1, 4, 6, 9] [4, 5, 8]    [0]          [1, 5, 8, 9] [0]          [1, 4, 5, 6, 9][1, 4, 5, 6] 
+[0]          [1, 3, 4, 8, 9][0]          [4, 8]       [1, 4, 8]    [0]          [1, 3, 4, 9] [1, 4, 9]    [0]          
+[1, 4, 6, 9] [1, 3, 4, 6, 9][1, 3, 4, 6, 9][2, 4, 5]    [1, 2, 4, 5] [0]          [1, 3, 4, 5, 9][0]          [1, 3, 4, 5, 6]
+[1, 4, 6, 7, 9][1, 4, 5, 6, 7, 9][1, 4, 6, 9] [4, 5, 6, 7, 8][4, 5, 7, 8] [5, 8]       [1, 4, 5, 7, 9][0]          [0]          
+[4, 6, 7, 9] [2, 3, 4, 5, 6, 7, 9][0]          [0]          [2, 4, 5, 7] [2, 5]       [4, 5, 7, 9] [4, 5, 6, 7, 9][4, 5, 6]    
+[1, 4, 6, 7] [1, 2, 4, 5, 6, 7][1, 4, 6]    [0]          [2, 4, 5, 7] [0]          [1, 4, 5, 7] [1, 4, 5, 6, 7][0]          
+[1, 4, 8]    [1, 4, 8]    [1, 4]       [2, 3, 5, 7, 8][1, 2, 5, 7, 8][1, 2, 5, 8] [0]          [1, 2, 4, 5, 7][0]          
+[0]          [1, 8, 9]    [0]          [3, 5, 8]    [0]          [0]          [1, 3, 5, 8] [1, 5]       [1, 3, 5]    
+[0]          [1, 4, 6, 8] [0]          [2, 7, 8]    [0]          [1, 2, 8]    [1, 4, 7, 8] [1, 2, 4, 7] [1, 4]       
+Elements left to solve: 57
+End
+
+Starting crossHatching...
+Refreshing Possibilities...
+End
+
+0 5: 9
+4 1: 3
+5 1: 2
+3 3: 6
+7 1: 9
+End
+
+Starting SingleCheck...
+Refreshing Possibilities...
+End
+
+Row: 1 6: 3
+Refreshing Possibilities...
+End
+
+Row: 1 7: 9
+Refreshing Possibilities...
+End
+
+Row: 2 2: 3
+Refreshing Possibilities...
+End
+
+Row: 6 3: 3
+Refreshing Possibilities...
+End
+
+Row: 7 8: 3
+Refreshing Possibilities...
+End
+
+Row: 8 1: 6
+Refreshing Possibilities...
+End
+
+Column: 3 1: 5
+Refreshing Possibilities...
+3 5: 8
+Refreshing Possibilities...
+End
+
+End
+
+Column: 3 2: 9
+Refreshing Possibilities...
+End
+
+Column: 4 6: 9
+Refreshing Possibilities...
+End
+
+Column: 8 3: 7
+Refreshing Possibilities...
+End
+
+Column: 2 0: 9
+Refreshing Possibilities...
+End
+
+Column: 6 7: 7
+Refreshing Possibilities...
+End
+
+Column: 8 7: 2
+Refreshing Possibilities...
+8 5: 1
+8 8: 4
+Refreshing Possibilities...
+8 6: 8
+Refreshing Possibilities...
+End
+
+End
+
+End
+
+End
+
+Starting pairCheck...
+Refreshing Possibilities...
+End
+
+removed: 5 from the pos. of: 7 3 row
+End
+
+Starting hiddenPairsRemoveBox...
+Refreshing Possibilities...
+7 3: 8
+Refreshing Possibilities...
+1 3: 4
+Refreshing Possibilities...
+0 3: 5
+2 3: 2
+2 4: 1
+Refreshing Possibilities...
+1 4: 8
+2 1: 4
+2 6: 5
+2 8: 6
+4 8: 5
+7 6: 1
+7 7: 5
+Refreshing Possibilities...
+0 8: 1
+1 1: 1
+4 5: 2
+6 1: 8
+6 5: 5
+Refreshing Possibilities...
+0 1: 7
+0 2: 6
+0 7: 4
+4 7: 6
+5 7: 1
+6 4: 2
+Refreshing Possibilities...
+0 0: 8
+5 2: 4
+5 6: 7
+6 2: 1
+Refreshing Possibilities...
+3 6: 4
+4 0: 7
+4 4: 4
+5 0: 6
+5 4: 5
+6 0: 4
+Refreshing Possibilities...
+3 0: 1
+3 4: 7
+Refreshing Possibilities...
+End
+
+End
+
+End
+
+End
+
+End
+
+End
+
+End
+
+End
+
+End
+
+End
+
+End
+
+Starting hiddenPairsRemoveColumnRow...
+Refreshing Possibilities...
+End
+
+End
+
+Starting X-Wing...
+Refreshing Possibilities...
+End
+
+End
+
+Starting XY-Wing...
+Refreshing Possibilities...
+End
+
+End
+
+Starting XYZ-Wing
+Refreshing Possibilities...
+End
+
+End
+
+Printing Posibilities...
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+Elements left to solve: 0
+End
+
+Starting crossHatching...
+Refreshing Possibilities...
+End
+
+End
+
+Starting SingleCheck...
+Refreshing Possibilities...
+End
+
+End
+
+Starting pairCheck...
+Refreshing Possibilities...
+End
+
+End
+
+Starting hiddenPairsRemoveBox...
+Refreshing Possibilities...
+End
+
+End
+
+Starting hiddenPairsRemoveColumnRow...
+Refreshing Possibilities...
+End
+
+End
+
+Starting X-Wing...
+Refreshing Possibilities...
+End
+
+End
+
+Starting XY-Wing...
+Refreshing Possibilities...
+End
+
+End
+
+Starting XYZ-Wing
+Refreshing Possibilities...
+End
+
+End
+
+Printing Posibilities...
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+[0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          [0]          
+Elements left to solve: 0
+End
+
+Printing Sudoku... 
+8 7 6 5 3 9 2 4 1 
+5 1 2 4 8 6 3 9 7 
+9 4 3 2 1 7 5 8 6 
+1 5 9 6 7 8 4 3 2 
+7 3 8 1 4 2 9 6 5 
+6 2 4 9 5 3 7 1 8 
+4 8 1 3 2 5 6 7 9 
+2 9 7 8 6 4 1 5 3 
+3 6 5 7 9 1 8 2 4 
+0s left: 0
+End
+
+
+Sudoku A OK
+
